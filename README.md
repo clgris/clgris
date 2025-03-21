@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Clément</h1>
 <h3 align="center">Deep learning and data science engineer from France.</h3>
 
-- 🔭 I’m currently working on [AI Frameworks](link)
+- 🔭 I’m currently working on [AI Frameworks](https://github.com/AlexandreDemarquet/projet-ai-frameworks)
 
-- 👨‍💻 All of my projects are available at [portfolioLINK](portfolioLINK)
+- 👨‍💻 All of my projects are available at [portfolioLINK](https://github.com/clgris?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
