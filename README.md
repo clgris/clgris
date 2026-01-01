@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-- 🔭 **Current Focus**: I’m currently working on [AI Frameworks](https://github.com/AlexandreDemarquet/projet-ai-frameworks)
+- 🔭 **Last Focus**: [AI Frameworks](https://github.com/AlexandreDemarquet/projet-ai-frameworks)
 - 👨‍💻 **Projects**: All of my projects are available at [Projects](https://github.com/clgris?tab=repositories)
 - 🌟 **Technical Interests**: Passionate about artificial intelligence, machine learning, and emerging technologies.
 - 📚 **Continuous Learning**: Always looking for new opportunities to learn.
